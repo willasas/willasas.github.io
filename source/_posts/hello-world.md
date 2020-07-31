@@ -77,7 +77,7 @@ theme: hexo-theme-matery
 cnpm i -S hexo-prism-plugin
 ```
 
-- Then,modify the value of highlight.enable to false in _config.yml file of Hexo root folder, and add the configuration of prism plugin as follows:
+- Then,modify the value of highlight.enable to false in \_config.yml file of Hexo root folder, and add the configuration of prism plugin as follows:
 
 ```_config.yml
 highlight:
@@ -96,7 +96,7 @@ prism_plugin:
 npm install hexo-generator-search --save
 ```
 
-- Add configuration of _config.yml file in Hexo root folder as follows：
+- Add configuration of \_config.yml file in Hexo root folder as follows：
 
 ```
 search:
@@ -110,7 +110,7 @@ search:
 npm i hexo-permalink-pinyin --save
 ```
 
-- Add such configurations in _config.yml file of Hexo:
+- Add such configurations in \_config.yml file of Hexo:
 
 ```_config.yml
 permalink_pinyin:
@@ -124,7 +124,7 @@ permalink_pinyin:
 npm i --save hexo-wordcount
 ```
 
-- Then just activate the following configuration items in the theme _config.yml file:
+- Then just activate the following configuration items in the theme \_config.yml file:
 
 ```themes/hexo-theme-matery/_config.yml
 postInfo:
@@ -144,11 +144,11 @@ hexo clean && hexo g
 
 ### Modify website footer
 
-- Website footer may need to be customized, and it is not convenient to make configuration information, So need to modify and process it by yourself. The changes are in the /layout/_partial/footer.ejs file, including the site, the theme used, the amount of traffic and so on.
+- Website footer may need to be customized, and it is not convenient to make configuration information, So need to modify and process it by yourself. The changes are in the /layout/\_partial/footer.ejs file, including the site, the theme used, the amount of traffic and so on.
 
 ### Modify social links
 
-- In the theme _config.yml file, the configurations of QQ, GitHub and mailbox and more are supported by default. In the /layout/_partial/social-link.ejs file of the theme, you can add or modify the social link address as you need. To add a link, please refer to the following code:
+- In the theme \_config.yml file, the configurations of QQ, GitHub and mailbox and more are supported by default. In the /layout/\_partial/social-link.ejs file of the theme, you can add or modify the social link address as you need. To add a link, please refer to the following code:
 
 ### deploy
 
@@ -166,15 +166,15 @@ npm install hexo-deployer-git
 npm run deploy
 ```
 
-### 部署GitHub Page
+### 部署 GitHub Page
 
-- 选择仓库名称下面一行选项中的"settings"进入到仓库的设置界面中。在github pages选项中提示你的网站已经发布在仓库名字对应的网址上了
+- 选择仓库名称下面一行选项中的"settings"进入到仓库的设置界面中。在 github pages 选项中提示你的网站已经发布在仓库名字对应的网址上了
 
-### 源代码提交到dev分支
+### 源代码提交到 dev 分支
 
 ```bash
 git checkout -q -b dev  #创建并切换到dev分支
 git add .
 git commit -m "dev demo"
-
+git push --set-upstream origin dev  #设置本地分支追踪远程分支
 ```
