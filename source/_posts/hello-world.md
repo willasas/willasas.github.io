@@ -150,7 +150,7 @@ hexo clean && hexo g
 
 - In the theme \_config.yml file, the configurations of QQ, GitHub and mailbox and more are supported by default. In the /layout/\_partial/social-link.ejs file of the theme, you can add or modify the social link address as you need. To add a link, please refer to the following code:
 
-### deploy
+### deploy yml
 
 ```_config.yml
 deploy:
@@ -166,15 +166,28 @@ npm install hexo-deployer-git
 npm run deploy
 ```
 
-### 部署 GitHub Page
+### deploy GitHub Page
 
-- 选择仓库名称下面一行选项中的"settings"进入到仓库的设置界面中。在 github pages 选项中提示你的网站已经发布在仓库名字对应的网址上了
+- Select your repository-》settings-》GitHub pages then copy your website address
 
-### 源代码提交到 dev 分支
+### Submit code to dev branch
 
 ```bash
 git checkout -q -b dev  #创建并切换到dev分支
 git add .
 git commit -m "dev demo"
 git push --set-upstream origin dev  #设置本地分支追踪远程分支
+```
+
+### Submit code to master
+
+```terminal
+hexo clean && hexo g  #重新生成代码
+```
+
+```bash
+git checkout master  #切换到master分支
+git add .
+git commit -m "master demo"
+git push --set-upstream origin master  #设置本地分支追踪远程分支
 ```
