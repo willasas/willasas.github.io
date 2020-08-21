@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/willasas/willasas.github.io/"/>
-  <updated>2020-08-12T15:28:51.892Z</updated>
+  <updated>2020-08-21T06:44:26.561Z</updated>
   <id>https://github.com/willasas/willasas.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>网站搭建</title>
-    <link href="https://github.com/willasas/willasas.github.io/2020/08/12/hello-world/"/>
-    <id>https://github.com/willasas/willasas.github.io/2020/08/12/hello-world/</id>
-    <published>2020-08-12T14:35:16.831Z</published>
-    <updated>2020-08-12T15:28:51.892Z</updated>
+    <link href="https://github.com/willasas/willasas.github.io/2020/08/21/hello-world/"/>
+    <id>https://github.com/willasas/willasas.github.io/2020/08/21/hello-world/</id>
+    <published>2020-08-21T06:21:00.000Z</published>
+    <updated>2020-08-21T06:44:26.561Z</updated>
     
     <summary type="html">
     
@@ -39,6 +39,12 @@
     </summary>
     
     
+      <category term="Website" scheme="https://github.com/willasas/willasas.github.io/categories/Website/"/>
+    
+    
+      <category term="Typora" scheme="https://github.com/willasas/willasas.github.io/tags/Typora/"/>
+    
+      <category term="Website" scheme="https://github.com/willasas/willasas.github.io/tags/Website/"/>
     
   </entry>
   
@@ -47,7 +53,7 @@
     <link href="https://github.com/willasas/willasas.github.io/2020/07/31/flex-layout/"/>
     <id>https://github.com/willasas/willasas.github.io/2020/07/31/flex-layout/</id>
     <published>2020-07-31T12:48:00.000Z</published>
-    <updated>2020-07-31T15:55:00.000Z</updated>
+    <updated>2020-08-21T06:44:23.816Z</updated>
     
     <summary type="html">
     
@@ -68,10 +74,6 @@
       <category term="HTML" scheme="https://github.com/willasas/willasas.github.io/categories/HTML/"/>
     
     
-      <category term="Typora" scheme="https://github.com/willasas/willasas.github.io/tags/Typora/"/>
-    
-      <category term="Markdown" scheme="https://github.com/willasas/willasas.github.io/tags/Markdown/"/>
-    
       <category term="HTML" scheme="https://github.com/willasas/willasas.github.io/tags/HTML/"/>
     
       <category term="CSS" scheme="https://github.com/willasas/willasas.github.io/tags/CSS/"/>
@@ -79,11 +81,11 @@
   </entry>
   
   <entry>
-    <title>示例</title>
+    <title>markdown示例</title>
     <link href="https://github.com/willasas/willasas.github.io/2020/07/30/exp/"/>
     <id>https://github.com/willasas/willasas.github.io/2020/07/30/exp/</id>
     <published>2020-07-30T09:35:00.000Z</published>
-    <updated>2020-07-31T15:55:00.000Z</updated>
+    <updated>2020-08-21T06:45:11.776Z</updated>
     
     <summary type="html">
     
@@ -103,8 +105,6 @@
     
       <category term="Example" scheme="https://github.com/willasas/willasas.github.io/categories/Example/"/>
     
-    
-      <category term="Typora" scheme="https://github.com/willasas/willasas.github.io/tags/Typora/"/>
     
       <category term="Markdown" scheme="https://github.com/willasas/willasas.github.io/tags/Markdown/"/>
     
