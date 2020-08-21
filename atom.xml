@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/willasas/willasas.github.io/"/>
-  <updated>2020-08-21T06:58:04.555Z</updated>
+  <updated>2020-08-21T11:37:45.135Z</updated>
   <id>https://github.com/willasas/willasas.github.io/</id>
   
   <author>
@@ -17,11 +17,43 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>配置客服功能</title>
+    <link href="https://github.com/willasas/willasas.github.io/2020/08/21/chat/"/>
+    <id>https://github.com/willasas/willasas.github.io/2020/08/21/chat/</id>
+    <published>2020-08-21T09:26:00.000Z</published>
+    <updated>2020-08-21T11:37:45.135Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;准备工作&quot;&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot; title=&quot;准备工作&quot;&gt;&lt;/a&gt;准备工作&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://app.crisp.chat/initiate/signup/&quot;&gt;crisp
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Chat" scheme="https://github.com/willasas/willasas.github.io/categories/Chat/"/>
+    
+      <category term="Webpage" scheme="https://github.com/willasas/willasas.github.io/categories/Chat/Webpage/"/>
+    
+    
+      <category term="Chat" scheme="https://github.com/willasas/willasas.github.io/tags/Chat/"/>
+    
+      <category term="Page pushing" scheme="https://github.com/willasas/willasas.github.io/tags/Page-pushing/"/>
+    
+  </entry>
+  
+  <entry>
     <title>网站搭建</title>
     <link href="https://github.com/willasas/willasas.github.io/2020/08/21/hello-world/"/>
     <id>https://github.com/willasas/willasas.github.io/2020/08/21/hello-world/</id>
     <published>2020-08-21T06:21:00.000Z</published>
-    <updated>2020-08-21T06:58:04.555Z</updated>
+    <updated>2020-08-21T09:19:42.763Z</updated>
     
     <summary type="html">
     
@@ -53,7 +85,7 @@
     <link href="https://github.com/willasas/willasas.github.io/2020/07/31/flex-layout/"/>
     <id>https://github.com/willasas/willasas.github.io/2020/07/31/flex-layout/</id>
     <published>2020-07-31T12:48:00.000Z</published>
-    <updated>2020-08-21T06:44:23.816Z</updated>
+    <updated>2020-08-21T09:19:38.862Z</updated>
     
     <summary type="html">
     
@@ -85,7 +117,7 @@
     <link href="https://github.com/willasas/willasas.github.io/2020/07/30/exp/"/>
     <id>https://github.com/willasas/willasas.github.io/2020/07/30/exp/</id>
     <published>2020-07-30T09:35:00.000Z</published>
-    <updated>2020-08-21T06:54:08.849Z</updated>
+    <updated>2020-08-21T11:52:40.019Z</updated>
     
     <summary type="html">
     
@@ -93,10 +125,8 @@
       
         
         
-          &lt;h2 id=&quot;Start&quot;&gt;&lt;a href=&quot;#Start&quot; class=&quot;headerlink&quot; title=&quot;Start&quot;&gt;&lt;/a&gt;Start&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;This is an example document&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2
+          &lt;blockquote class=&quot;pullquote mindmap mindmap-md&quot;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a
         
       
     
