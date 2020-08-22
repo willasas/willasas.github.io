@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/willasas/willasas.github.io/"/>
-  <updated>2020-08-21T11:37:45.135Z</updated>
+  <updated>2020-08-22T05:26:23.568Z</updated>
   <id>https://github.com/willasas/willasas.github.io/</id>
   
   <author>
@@ -17,11 +17,155 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>常用网站</title>
+    <link href="https://github.com/willasas/willasas.github.io/2020/08/22/weblist/"/>
+    <id>https://github.com/willasas/willasas.github.io/2020/08/22/weblist/</id>
+    <published>2020-08-22T03:22:00.000Z</published>
+    <updated>2020-08-22T05:26:23.568Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;设计类网站&quot;&gt;&lt;a href=&quot;#设计类网站&quot; class=&quot;headerlink&quot; title=&quot;设计类网站&quot;&gt;&lt;/a&gt;设计类网站&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;1. 配色类网站&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Website-summary" scheme="https://github.com/willasas/willasas.github.io/categories/Website-summary/"/>
+    
+    
+      <category term="website" scheme="https://github.com/willasas/willasas.github.io/tags/website/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网站文章导航</title>
+    <link href="https://github.com/willasas/willasas.github.io/2020/08/22/guide/"/>
+    <id>https://github.com/willasas/willasas.github.io/2020/08/22/guide/</id>
+    <published>2020-08-22T03:22:00.000Z</published>
+    <updated>2020-08-22T05:27:01.371Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;网站搭建&quot;&gt;&lt;a href=&quot;#网站搭建&quot; class=&quot;headerlink&quot; title=&quot;网站搭建&quot;&gt;&lt;/a&gt;网站搭建&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;Pt-structure.md&quot;&gt;hexo 项目结构&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Website-guide" scheme="https://github.com/willasas/willasas.github.io/categories/Website-guide/"/>
+    
+    
+      <category term="Guider" scheme="https://github.com/willasas/willasas.github.io/tags/Guider/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo思维导图使用</title>
+    <link href="https://github.com/willasas/willasas.github.io/2020/08/22/mindmap/"/>
+    <id>https://github.com/willasas/willasas.github.io/2020/08/22/mindmap/</id>
+    <published>2020-08-22T03:21:00.000Z</published>
+    <updated>2020-08-22T05:33:50.832Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;准备工作&quot;&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot; title=&quot;准备工作&quot;&gt;&lt;/a&gt;准备工作&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Plug-ins" scheme="https://github.com/willasas/willasas.github.io/categories/Plug-ins/"/>
+    
+    
+      <category term="mindmap" scheme="https://github.com/willasas/willasas.github.io/tags/mindmap/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>live2d看板娘配置</title>
+    <link href="https://github.com/willasas/willasas.github.io/2020/08/22/live2dconf/"/>
+    <id>https://github.com/willasas/willasas.github.io/2020/08/22/live2dconf/</id>
+    <published>2020-08-22T03:21:00.000Z</published>
+    <updated>2020-08-22T05:33:41.010Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;准备工作&quot;&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot; title=&quot;准备工作&quot;&gt;&lt;/a&gt;准备工作&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;1. 前提&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Node.js version
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Plug-ins" scheme="https://github.com/willasas/willasas.github.io/categories/Plug-ins/"/>
+    
+    
+      <category term="Live2d" scheme="https://github.com/willasas/willasas.github.io/tags/Live2d/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>gulp压缩静态资源和字体压缩</title>
+    <link href="https://github.com/willasas/willasas.github.io/2020/08/22/codecom-spider/"/>
+    <id>https://github.com/willasas/willasas.github.io/2020/08/22/codecom-spider/</id>
+    <published>2020-08-22T03:01:00.000Z</published>
+    <updated>2020-08-22T05:32:58.518Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;准备工作&quot;&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot; title=&quot;准备工作&quot;&gt;&lt;/a&gt;准备工作&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;1.
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Plug-ins" scheme="https://github.com/willasas/willasas.github.io/categories/Plug-ins/"/>
+    
+    
+      <category term="Gulp" scheme="https://github.com/willasas/willasas.github.io/tags/Gulp/"/>
+    
+      <category term="Spider" scheme="https://github.com/willasas/willasas.github.io/tags/Spider/"/>
+    
+  </entry>
+  
+  <entry>
     <title>配置客服功能</title>
     <link href="https://github.com/willasas/willasas.github.io/2020/08/21/chat/"/>
     <id>https://github.com/willasas/willasas.github.io/2020/08/21/chat/</id>
     <published>2020-08-21T09:26:00.000Z</published>
-    <updated>2020-08-21T11:37:45.135Z</updated>
+    <updated>2020-08-22T05:04:05.517Z</updated>
     
     <summary type="html">
     
@@ -37,23 +181,19 @@
     </summary>
     
     
-      <category term="Chat" scheme="https://github.com/willasas/willasas.github.io/categories/Chat/"/>
-    
-      <category term="Webpage" scheme="https://github.com/willasas/willasas.github.io/categories/Chat/Webpage/"/>
+      <category term="Plug-ins" scheme="https://github.com/willasas/willasas.github.io/categories/Plug-ins/"/>
     
     
       <category term="Chat" scheme="https://github.com/willasas/willasas.github.io/tags/Chat/"/>
     
-      <category term="Page pushing" scheme="https://github.com/willasas/willasas.github.io/tags/Page-pushing/"/>
-    
   </entry>
   
   <entry>
-    <title>网站搭建</title>
-    <link href="https://github.com/willasas/willasas.github.io/2020/08/21/hello-world/"/>
-    <id>https://github.com/willasas/willasas.github.io/2020/08/21/hello-world/</id>
+    <title>hexo网站搭建及优化</title>
+    <link href="https://github.com/willasas/willasas.github.io/2020/08/21/website-con/"/>
+    <id>https://github.com/willasas/willasas.github.io/2020/08/21/website-con/</id>
     <published>2020-08-21T06:21:00.000Z</published>
-    <updated>2020-08-21T09:19:42.763Z</updated>
+    <updated>2020-08-22T05:38:57.243Z</updated>
     
     <summary type="html">
     
@@ -61,10 +201,9 @@
       
         
         
-          &lt;ul&gt;
-&lt;li&gt;Hexo: &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;doc&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot;
+          &lt;h3 id=&quot;准备工作&quot;&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot; title=&quot;准备工作&quot;&gt;&lt;/a&gt;准备工作&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;1. 前提&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Node.js version
         
       
     
@@ -73,10 +212,14 @@
     
       <category term="Website" scheme="https://github.com/willasas/willasas.github.io/categories/Website/"/>
     
+      <category term="Hexo" scheme="https://github.com/willasas/willasas.github.io/categories/Website/Hexo/"/>
     
-      <category term="Typora" scheme="https://github.com/willasas/willasas.github.io/tags/Typora/"/>
     
-      <category term="Website" scheme="https://github.com/willasas/willasas.github.io/tags/Website/"/>
+      <category term="Plug-ins" scheme="https://github.com/willasas/willasas.github.io/tags/Plug-ins/"/>
+    
+      <category term="Website SEO" scheme="https://github.com/willasas/willasas.github.io/tags/Website-SEO/"/>
+    
+      <category term="Matery" scheme="https://github.com/willasas/willasas.github.io/tags/Matery/"/>
     
   </entry>
   
@@ -85,7 +228,7 @@
     <link href="https://github.com/willasas/willasas.github.io/2020/07/31/flex-layout/"/>
     <id>https://github.com/willasas/willasas.github.io/2020/07/31/flex-layout/</id>
     <published>2020-07-31T12:48:00.000Z</published>
-    <updated>2020-08-21T09:19:38.862Z</updated>
+    <updated>2020-08-22T05:31:13.656Z</updated>
     
     <summary type="html">
     
@@ -113,11 +256,11 @@
   </entry>
   
   <entry>
-    <title>markdown示例</title>
-    <link href="https://github.com/willasas/willasas.github.io/2020/07/30/exp/"/>
-    <id>https://github.com/willasas/willasas.github.io/2020/07/30/exp/</id>
+    <title>hexo项目结构</title>
+    <link href="https://github.com/willasas/willasas.github.io/2020/07/30/pt-structure/"/>
+    <id>https://github.com/willasas/willasas.github.io/2020/07/30/pt-structure/</id>
     <published>2020-07-30T09:35:00.000Z</published>
-    <updated>2020-08-21T17:08:19.757Z</updated>
+    <updated>2020-08-22T04:34:01.061Z</updated>
     
     <summary type="html">
     
@@ -125,19 +268,47 @@
       
         
         
-          &lt;h3 id=&quot;项目目录结构&quot;&gt;&lt;a href=&quot;#项目目录结构&quot; class=&quot;headerlink&quot; title=&quot;项目目录结构&quot;&gt;&lt;/a&gt;项目目录结构&lt;/h3&gt;&lt;blockquote class=&quot;pullquote mindmap
+          &lt;h3 id=&quot;项目目录结构如下&quot;&gt;&lt;a href=&quot;#项目目录结构如下&quot; class=&quot;headerlink&quot; title=&quot;项目目录结构如下&quot;&gt;&lt;/a&gt;项目目录结构如下&lt;/h3&gt;&lt;blockquote class=&quot;pullquote mindmap
         
       
     
     </summary>
     
     
-      <category term="Example" scheme="https://github.com/willasas/willasas.github.io/categories/Example/"/>
+      <category term="Project" scheme="https://github.com/willasas/willasas.github.io/categories/Project/"/>
     
     
-      <category term="Markdown" scheme="https://github.com/willasas/willasas.github.io/tags/Markdown/"/>
+      <category term="Project structure" scheme="https://github.com/willasas/willasas.github.io/tags/Project-structure/"/>
     
-      <category term="Example" scheme="https://github.com/willasas/willasas.github.io/tags/Example/"/>
+  </entry>
+  
+  <entry>
+    <title>中文链接转拼音和字数统计</title>
+    <link href="https://github.com/willasas/willasas.github.io/2020/07/30/wordcount-link/"/>
+    <id>https://github.com/willasas/willasas.github.io/2020/07/30/wordcount-link/</id>
+    <published>2020-07-30T09:35:00.000Z</published>
+    <updated>2020-08-22T05:34:42.020Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;准备工作&quot;&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot; title=&quot;准备工作&quot;&gt;&lt;/a&gt;准备工作&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Plug-ins" scheme="https://github.com/willasas/willasas.github.io/categories/Plug-ins/"/>
+    
+    
+      <category term="Chinese link to Pinyin" scheme="https://github.com/willasas/willasas.github.io/tags/Chinese-link-to-Pinyin/"/>
+    
+      <category term="Word count" scheme="https://github.com/willasas/willasas.github.io/tags/Word-count/"/>
     
   </entry>
   
